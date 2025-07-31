@@ -1,0 +1,4 @@
+*.pt
+*.zip
+yolov8l.pt
+yolov8m-seg.pt
